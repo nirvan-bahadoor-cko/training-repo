@@ -1,3 +1,3 @@
 #!/bin/bash
-#docker --version
+docker --version
 cat /etc/hostname
